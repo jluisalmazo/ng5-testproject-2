@@ -6,3 +6,9 @@
 @import "~bootstrap/scss/print";
 @import "~bootstrap/scss/reboot";
 @import "~bootstrap/scss/grid";
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: get-rem(_16px);
+    font-weight: normal;
+}
